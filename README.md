@@ -10,11 +10,11 @@
 (https://archive.ics.uci.edu/dataset/601/predictive+maintenance+data)
 ## Установка и запуск
 1. Клонируйте репозиторий:
-git clone <ссылка на репозиторий>
+`git clone <https://github.com/Nifton-GH/predictive_maintenance_project>`
 2. Установите зависимости:
-pip install -r requirements.txt
+`pip install -r requirements.txt`
 3. Запустите приложение:
-streamlit run app.py
+`streamlit run app.py`
 ## Структура репозитория
 - `app.py`: Основной файл приложения.
 - `analysis_and_model.py`: Страница с анализом данных и моделью.
