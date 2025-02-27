@@ -23,6 +23,6 @@
 - `video/`: Папка с видео-демонстрацией.
 - `README.md`: Описание проекта.
 ## Видео-демонстрация
-[Ссылка на видео-демонстрацию](video/demo.mp4) или ниже:
-<video src="video/demo.mp4" controls width="100%"></video>
+[Ссылка на видео-демонстрацию](video/demo.mp4) или видео ниже:
+[Видео-демонстрация](https://nifton-gh.github.io/predictive_maintenance_project/)
 
