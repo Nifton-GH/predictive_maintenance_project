@@ -21,7 +21,8 @@
 - `presentation.py`: Страница с презентацией проекта.
 - `requirements.txt`: Файл с зависимостями.
 - `data/`: Папка с данными.
+- `video/`: Папка с видео-демонстрацией.
 - `README.md`: Описание проекта.
 ## Видео-демонстрация
-<!-- [Ссылка на видео](video/demo.mp4) или встроенное видео ниже:
-<video src="video/demo.mp4" controls width="100%"></video> -->
+[Ссылка на видео](video/demo.mp4) или встроенное видео ниже:
+<video src="video/demo.mp4" controls width="100%"></video>
