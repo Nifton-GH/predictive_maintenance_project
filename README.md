@@ -24,5 +24,6 @@
 - `README.md`: Описание проекта.
 ## Видео-демонстрация
 [Ссылка на видео-демонстрацию](video/demo.mp4) или видео ниже:
-[Видео-демонстрация](https://nifton-gh.github.io/predictive_maintenance_project/)
+
+[Видео-демонстрация c GitHub Pages](https://nifton-gh.github.io/predictive_maintenance_project/)
 
